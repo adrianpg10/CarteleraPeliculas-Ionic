@@ -7,4 +7,4 @@ Cartelera de peliculas realizado en ionic con firebase.
 
 * [Github](https://github.com/adrianpg10)
 * [LinkedIn](https://www.linkedin.com/in/adrian-perez-gomez/)
-* [Portfolio]()
+* [Portfolio](https://adrianperezportfolio.netlify.app/)
